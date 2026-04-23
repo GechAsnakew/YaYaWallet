@@ -5,9 +5,6 @@ import {
   Target,
   Compass,
   Sparkles,
-  Shield,
-  Award,
-  Lock,
 } from 'lucide-react';
 
 const milestones = [
