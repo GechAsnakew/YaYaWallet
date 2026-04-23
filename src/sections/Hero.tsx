@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ArrowRight, Play, Users, Star, MapPin, Check, Building2 } from 'lucide-react';
+import { ArrowRight, Play, Users, MapPin, Check, Building2 } from 'lucide-react';
 
 const Hero = () => {
   const [amount, setAmount] = useState('4745');

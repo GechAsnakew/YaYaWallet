@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState } from 'react';
-import { Apple, Play, Smartphone } from 'lucide-react';
 
 const Download = () => {
   const sectionRef = useRef<HTMLDivElement>(null);

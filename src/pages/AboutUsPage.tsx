@@ -135,7 +135,6 @@ const LeaderCard = ({
 
 const AboutUsPage = () => {
   const hero = useSectionVisible(0.1);
-  const who = useSectionVisible();
   const visionMission = useSectionVisible();
   const milestonesVis = useSectionVisible(0.08);
   const leadership = useSectionVisible(0.08);

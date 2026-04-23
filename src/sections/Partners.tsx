@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Building, Building2, Shield } from 'lucide-react';
+import { Building2, Shield } from 'lucide-react';
 
 const Partners = () => {
   const sectionRef = useRef<HTMLDivElement>(null);

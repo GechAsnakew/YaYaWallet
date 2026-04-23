@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Download, UserPlus, Wallet, HelpCircle, MessageCircle } from 'lucide-react';
+import { Download, UserPlus, Wallet } from 'lucide-react';
 
 const Steps = () => {
   const sectionRef = useRef<HTMLDivElement>(null);

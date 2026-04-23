@@ -200,7 +200,7 @@ const BusinessPage = () => {
           <div className="p-0">
             <h3 className="text-xl font-bold text-gray-900 mb-5">Checkout flow features</h3>
             <div className="grid sm:grid-cols-2 gap-4">
-              {checkoutSteps.map((s, idx) => (
+              {checkoutSteps.map((s, _) => (
                   <div
                     key={s.title}
                     className="bg-transparent border border-[#6b1565]/12 rounded-2xl p-4 hover:bg-white/40 transition-colors"
